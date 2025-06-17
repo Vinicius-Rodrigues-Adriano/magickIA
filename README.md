@@ -1,46 +1,34 @@
-# 📁 MagickIA
+📁 MagickIA - Filtro de Cartas Mágicas
+Tags: Front-end, HTML, CSS, JavaScript, Filtros
 
-✨ Funcionalidades do projeto
-A aplicação permite filtrar cartas mágicas de forma dinâmica com base em:
+Descrição: Um projeto interativo para filtrar cartas mágicas por categoria e preço máximo.
 
-Categoria selecionada (dropdown)
+✨ Funcionalidades
+▼ Filtro por categoria (dropdown)
 
-Preço máximo definido (input numérico)
+▼ Filtro por preço máximo (input numérico)
 
-Os filtros são aplicados instantaneamente ao clicar no botão, mostrando apenas as cartas que correspondem aos critérios selecionados. As cartas possuem:
+▼ Exibição dinâmica das cartas filtradas
 
-Imagem ilustrativa
+▼ Design responsivo para todos os dispositivos
 
-Nome do personagem
+▼ Botão de compra integrado em cada carta
 
-Categoria
+🖥️ Como Usar
+Selecione uma categoria no menu dropdown (opcional)
 
-Preço
+Insira um valor máximo no campo de preço (opcional)
 
-Botão de compra
+Clique no botão "Aplicar filtros"
 
-🛠️ Técnicas e tecnologias utilizadas
-As técnicas e tecnologias utilizadas são:
+Visualize apenas as cartas que correspondem aos seus critérios
 
-HTML: Estruturação dos elementos da página
-
-CSS: Estilização responsiva com Flexbox e media queries
-
-JavaScript: Manipulação do DOM para filtragem dinâmica
-
-🔍 Como funciona
-O usuário seleciona uma categoria (opcional)
-
-Define um preço máximo (opcional)
-
-Clica em "Aplicar filtros"
-
-O sistema mostra apenas as cartas que:
-
-Pertencem à categoria selecionada (se aplicável)
-
-Possuem preço igual ou menor ao definido (se aplicável)
-
-🖥️ Visualização do Projeto
 Você pode visualizar o projeto online através do GitHub Pages:
+Ver projeto ao vivo
 
+🛠️ Tecnologias Utilizadas
+HTML5
+
+CSS3 (Flexbox e Media Queries)
+
+JavaScript
