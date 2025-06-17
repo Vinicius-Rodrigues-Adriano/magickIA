@@ -41,4 +41,4 @@ JavaScript
 ---
 
 🚀 Visualização
-Você pode visualizar o projeto online através do [GitHub Pages]()
+Você pode visualizar o projeto online através do [GitHub Pages](https://vinicius-rodrigues-adriano.github.io/magickIA/)
